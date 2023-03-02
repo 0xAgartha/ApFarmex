@@ -1,32 +1,24 @@
 # Apex Farming Tool for MME/TDM
 
 This Python script automates farming EXP in Apex in the MME/TDM mode. The script uses the PyAutoGUI library to simulate mouse and keyboard clicks.
-.
+
 
 ## Usage
 
-### 1. Clone the repository:
-    ```sh 
+####  1. Clone the repository:
     git clone https://github.com/0xAgartha/ApFarmex
-    ```
-### 2. Install dependencies:
-    ```sh
-     sudo apt-get install python3-pip python3-tk python3-dev scrot
-    ```
-### 3. Install the PyAutoGUI and opencv library: 
-    ```sh
-    pip install pyautogui opencv-python
-    ```
-### 4. Enter in script folder:
-    ```sh
-    cd ApFarmex
-    ``` 
-### 5. Launch it    
-    ```sh
-    python3 ApexFarmerMME.py
-    ```
-### 6. Start the game and don't touch anything more.
 
+#### 2. Install dependencies:
+     sudo apt-get install python3-pip python3-tk python3-dev scrot
+
+#### 3. Install the PyAutoGUI and opencv library: 
+    pip install pyautogui opencv-python
+    
+#### 4. Enter in script folder:
+    cd ApFarmex
+    
+#### 5. Launch it, start the game and don't touch anything more.    
+    python3 ApexFarmerMME.py
 
 ## Script Description
 
