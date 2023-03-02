@@ -23,11 +23,9 @@ This Python script automates farming EXP in Apex in the MME/TDM mode. The script
 ## Script Description
 
 The script performs the following actions:
-
-- Clicks on the "Play" button on the home screen
+- Click on continue on Apex startup page
 - Closes the news popup window if it appears
-- Selects the "TDM" game mode if it is not already selected
-- Chooses the MME/TDM mode from the game mode menu
+- Chooses the MME/TDM mode from the game mode menu if it is not already selected
 - Clicks on the "Ready" button and waits for the game to start
 - Selects a loadout for the game
 - Presses random keys during the game
