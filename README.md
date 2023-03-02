@@ -5,9 +5,17 @@ This Python script automates farming EXP in Apex in the MME/TDM mode. The script
 
 ## Usage
 
-1. Clone the repository
-2. Install dependencies `sudo apt-get install python3-pip python3-tk python3-dev scrot libopencv-dev python3-opencv`
-3. Install the PyAutoGUI library: `pip install pyautogui`
+1. Clone the repository:
+```sh 
+    git clone 
+2. Install dependencies:
+    ```sh
+     sudo apt-get install python3-pip python3-tk python3-dev scrot
+    ```
+3. Install the PyAutoGUI and opencv library: 
+    ```sh
+    pip install pyautogui opencv-python
+    ```
 4. Run the script: `python3 ApexFarmerMME.py`
 
 ## Script Description
@@ -28,7 +36,6 @@ The script performs the following actions:
 
 - Ubuntu
 - Python 3.x
-- PyAutoGUI library
 
 ## Notes
 
