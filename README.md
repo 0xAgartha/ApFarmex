@@ -6,8 +6,9 @@ This Python script automates farming EXP in Apex in the MME/TDM mode. The script
 ## Usage
 
 1. Clone the repository:
-```sh 
-    git clone 
+    ```sh 
+    git clone https://github.com/0xAgartha/ApFarmex
+    ```
 2. Install dependencies:
     ```sh
      sudo apt-get install python3-pip python3-tk python3-dev scrot
@@ -16,7 +17,16 @@ This Python script automates farming EXP in Apex in the MME/TDM mode. The script
     ```sh
     pip install pyautogui opencv-python
     ```
-4. Run the script: `python3 ApexFarmerMME.py`
+4. Enter in script folder the script:
+    ```sh
+    cd ApFarmex
+    ``` 
+    and launch it    
+    ```sh
+    python3 ApexFarmerMME.py
+    ```
+5. Start the game and don't touch anything more.
+
 
 ## Script Description
 
