@@ -1,6 +1,7 @@
 # Apex Farming Tool
 
-This Python script automates farming EXP in Apex. The script uses the PyAutoGUI library to simulate mouse and keyboard clicks.
+This Python script automates farming EXP in Apex. 
+The script uses the PyAutoGUI library to simulate mouse and keyboard clicks.
 
 You can choose between 2 modes:
 
