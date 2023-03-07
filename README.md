@@ -1,8 +1,9 @@
 # Apex Farming Tool
 
-This Python script automates farming EXP in Apex. The script uses the PyAutoGUI library to simulate mouse and keyboard clicks.You can choose between 2 modes.
-ApexFarmerTDM.py for Team DeathMatch mode
-ApexFarmerBR.py for Battle Royale mode
+This Python script automates farming EXP in Apex. The script uses the PyAutoGUI library to simulate mouse and keyboard clicks.
+You can choose between 2 modes:
+-ApexFarmerTDM.py for Team DeathMatch mode
+-ApexFarmerBR.py for Battle Royale mode
 
 ## Usage
 
@@ -10,7 +11,7 @@ ApexFarmerBR.py for Battle Royale mode
     git clone https://github.com/0xAgartha/ApFarmex
 
 #### 2. Install dependencies:
-     sudo apt-get install python3-pip python3-tk python3-dev scrot
+    sudo apt-get install python3-pip python3-tk python3-dev scrot
 
 #### 3. Install the PyAutoGUI and opencv library: 
     pip install pyautogui opencv-python
@@ -18,10 +19,11 @@ ApexFarmerBR.py for Battle Royale mode
 #### 4. Enter in script folder:
     cd ApFarmex
     
-#### 5. Launch it, start the game and don't touch anything more.  
-    python3 ApexFarmerTDM.py
-or
+#### 5. Launch BR version, start the game and don't touch anything more.  
     python3 ApexFarmerBR.py
+
+#### Or launch TDM version, start the game and don't touch anything more.  
+    python3 ApexFarmerTDM.py
 
 
 ## Script Description
